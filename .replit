@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python AllStats.py"
+=======
+run = "python APPLstats.py"
+>>>>>>> 059e817b5174804d5f5ca79568889fde5b3b63f2
